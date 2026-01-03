@@ -1,0 +1,3 @@
+Hello from MCP Server!
+Created at: 2026-01-03T21:27:23.466Z
+This file was created to test the GitHub MCP server functionality.
